@@ -468,3 +468,6 @@ form{
     flex-wrap: wrap;
     justify-content: space-around;
 }
+.gif{
+    display: block;
+}
